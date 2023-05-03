@@ -1,0 +1,600 @@
+HCU Close-set 300 epochs
+Fold10 Start!
+Finished Epoch: 01, Training Loss: 3.18898
+Finished Epoch: 02, Training Loss: 2.71613
+
+Finished Epoch: 03, Training Loss: 2.64421
+
+Finished Epoch: 04, Training Loss: 2.56666
+
+Finished Epoch: 05, Training Loss: 3.43875
+
+Finished Epoch: 06, Training Loss: 2.42804
+
+Finished Epoch: 07, Training Loss: 3.58834
+
+Finished Epoch: 08, Training Loss: 2.82574
+
+Finished Epoch: 09, Training Loss: 2.74484
+
+Finished Epoch: 10, Training Loss: 2.17861
+
+Finished Epoch: 11, Training Loss: 2.77991
+
+Finished Epoch: 12, Training Loss: 2.18133
+
+Finished Epoch: 13, Training Loss: 2.06727
+
+Finished Epoch: 14, Training Loss: 4.43901
+
+Finished Epoch: 15, Training Loss: 2.55324
+
+Finished Epoch: 16, Training Loss: 3.27413
+
+Finished Epoch: 17, Training Loss: 2.21236
+
+Finished Epoch: 18, Training Loss: 3.42238
+
+Finished Epoch: 19, Training Loss: 2.81580
+
+Finished Epoch: 20, Training Loss: 2.17726
+
+Finished Epoch: 21, Training Loss: 2.60854
+
+Finished Epoch: 22, Training Loss: 2.14558
+
+Finished Epoch: 23, Training Loss: 2.60137
+
+Finished Epoch: 24, Training Loss: 2.21870
+
+Finished Epoch: 25, Training Loss: 2.72783
+
+Finished Epoch: 26, Training Loss: 2.55641
+
+Finished Epoch: 27, Training Loss: 2.22962
+
+Finished Epoch: 28, Training Loss: 2.99496
+
+Finished Epoch: 29, Training Loss: 2.44952
+
+Finished Epoch: 30, Training Loss: 1.89400
+
+Finished Epoch: 31, Training Loss: 3.11363
+
+Finished Epoch: 32, Training Loss: 2.07807
+
+Finished Epoch: 33, Training Loss: 2.02837
+
+Finished Epoch: 34, Training Loss: 2.41221
+
+Finished Epoch: 35, Training Loss: 2.31548
+
+Finished Epoch: 36, Training Loss: 2.06930
+
+Finished Epoch: 37, Training Loss: 3.62314
+
+Finished Epoch: 38, Training Loss: 1.88436
+
+Finished Epoch: 39, Training Loss: 2.91332
+
+Finished Epoch: 40, Training Loss: 2.54711
+
+Finished Epoch: 41, Training Loss: 2.40149
+
+Finished Epoch: 42, Training Loss: 2.06457
+
+Finished Epoch: 43, Training Loss: 2.68822
+
+Finished Epoch: 44, Training Loss: 2.08043
+
+Finished Epoch: 45, Training Loss: 1.87816
+
+Finished Epoch: 46, Training Loss: 2.40385
+
+Finished Epoch: 47, Training Loss: 2.74458
+
+Finished Epoch: 48, Training Loss: 2.39229
+
+Finished Epoch: 49, Training Loss: 2.50528
+
+Finished Epoch: 50, Training Loss: 3.36224
+
+Finished Epoch: 51, Training Loss: 1.80548
+
+Finished Epoch: 52, Training Loss: 2.30606
+
+Finished Epoch: 53, Training Loss: 2.05898
+
+Finished Epoch: 54, Training Loss: 2.37333
+
+Finished Epoch: 55, Training Loss: 2.62354
+
+Finished Epoch: 56, Training Loss: 2.41169
+
+Finished Epoch: 57, Training Loss: 2.02613
+
+Finished Epoch: 58, Training Loss: 2.73389
+
+Finished Epoch: 59, Training Loss: 2.50342
+
+Finished Epoch: 60, Training Loss: 2.42313
+
+Finished Epoch: 61, Training Loss: 1.97859
+
+Finished Epoch: 62, Training Loss: 2.55003
+
+Finished Epoch: 63, Training Loss: 2.68151
+
+Finished Epoch: 64, Training Loss: 2.31508
+
+Finished Epoch: 65, Training Loss: 2.03125
+
+Finished Epoch: 66, Training Loss: 4.25294
+
+Finished Epoch: 67, Training Loss: 1.84330
+
+Finished Epoch: 68, Training Loss: 1.91292
+
+Finished Epoch: 69, Training Loss: 2.75020
+
+Finished Epoch: 70, Training Loss: 2.75190
+
+Finished Epoch: 71, Training Loss: 2.63298
+
+Finished Epoch: 72, Training Loss: 2.83969
+
+Finished Epoch: 73, Training Loss: 2.03407
+
+Finished Epoch: 74, Training Loss: 2.72899
+
+Finished Epoch: 75, Training Loss: 2.56104
+
+Finished Epoch: 76, Training Loss: 2.16753
+
+Finished Epoch: 77, Training Loss: 2.84323
+
+Finished Epoch: 78, Training Loss: 2.37673
+
+Finished Epoch: 79, Training Loss: 2.05887
+
+Finished Epoch: 80, Training Loss: 1.78601
+
+Finished Epoch: 81, Training Loss: 2.15931
+
+Finished Epoch: 82, Training Loss: 2.29042
+
+Finished Epoch: 83, Training Loss: 1.73500
+
+Finished Epoch: 84, Training Loss: 1.71372
+
+Finished Epoch: 85, Training Loss: 2.01473
+
+Finished Epoch: 86, Training Loss: 3.04117
+
+Finished Epoch: 87, Training Loss: 3.06007
+
+Finished Epoch: 88, Training Loss: 2.14582
+
+Finished Epoch: 89, Training Loss: 2.70311
+
+Finished Epoch: 90, Training Loss: 1.90264
+
+Finished Epoch: 91, Training Loss: 1.67759
+
+Finished Epoch: 92, Training Loss: 2.17020
+
+Finished Epoch: 93, Training Loss: 1.76953
+
+Finished Epoch: 94, Training Loss: 1.82900
+
+Finished Epoch: 95, Training Loss: 2.48225
+
+Finished Epoch: 96, Training Loss: 2.26645
+
+Finished Epoch: 97, Training Loss: 1.68657
+
+Finished Epoch: 98, Training Loss: 1.92077
+
+Finished Epoch: 99, Training Loss: 2.13174
+
+Finished Epoch: 100, Training Loss: 2.31984
+
+Finished Epoch: 101, Training Loss: 2.33748
+
+Finished Epoch: 102, Training Loss: 3.78380
+
+Finished Epoch: 103, Training Loss: 2.62880
+
+Finished Epoch: 104, Training Loss: 2.14052
+
+Finished Epoch: 105, Training Loss: 2.34071
+
+Finished Epoch: 106, Training Loss: 2.00690
+
+Finished Epoch: 107, Training Loss: 2.24954
+
+Finished Epoch: 108, Training Loss: 3.59532
+
+Finished Epoch: 109, Training Loss: 2.43439
+
+Finished Epoch: 110, Training Loss: 2.19306
+
+Finished Epoch: 111, Training Loss: 1.89921
+
+Finished Epoch: 112, Training Loss: 2.13206
+
+Finished Epoch: 113, Training Loss: 2.48547
+
+Finished Epoch: 114, Training Loss: 5.13757
+
+Finished Epoch: 115, Training Loss: 2.02696
+
+Finished Epoch: 116, Training Loss: 3.12674
+
+Finished Epoch: 117, Training Loss: 2.11494
+
+Finished Epoch: 118, Training Loss: 3.89311
+
+Finished Epoch: 119, Training Loss: 1.93072
+
+Finished Epoch: 120, Training Loss: 2.82537
+
+Finished Epoch: 121, Training Loss: 3.24552
+
+Finished Epoch: 122, Training Loss: 3.31256
+
+Finished Epoch: 123, Training Loss: 1.75660
+
+Finished Epoch: 124, Training Loss: 1.98772
+
+Finished Epoch: 125, Training Loss: 1.86391
+
+Finished Epoch: 126, Training Loss: 2.86165
+
+Finished Epoch: 127, Training Loss: 1.89176
+
+Finished Epoch: 128, Training Loss: 1.98327
+
+Finished Epoch: 129, Training Loss: 2.04996
+
+Finished Epoch: 130, Training Loss: 2.12242
+
+Finished Epoch: 131, Training Loss: 2.14843
+
+Finished Epoch: 132, Training Loss: 2.52608
+
+Finished Epoch: 133, Training Loss: 1.82323
+
+Finished Epoch: 134, Training Loss: 2.14672
+
+Finished Epoch: 135, Training Loss: 3.87468
+
+Finished Epoch: 136, Training Loss: 2.17145
+
+Finished Epoch: 137, Training Loss: 2.37819
+
+Finished Epoch: 138, Training Loss: 2.19267
+
+Finished Epoch: 139, Training Loss: 1.74813
+
+Finished Epoch: 140, Training Loss: 9.65862
+
+Finished Epoch: 141, Training Loss: 1.73689
+
+Finished Epoch: 142, Training Loss: 3.18724
+
+Finished Epoch: 143, Training Loss: 1.61093
+
+Finished Epoch: 144, Training Loss: 2.36906
+
+Finished Epoch: 145, Training Loss: 2.31227
+
+Finished Epoch: 146, Training Loss: 1.91352
+
+Finished Epoch: 147, Training Loss: 3.05237
+
+Finished Epoch: 148, Training Loss: 2.11483
+
+Finished Epoch: 149, Training Loss: 1.89375
+
+Finished Epoch: 150, Training Loss: 2.34019
+
+Finished Epoch: 151, Training Loss: 2.76939
+
+Finished Epoch: 152, Training Loss: 1.96429
+
+Finished Epoch: 153, Training Loss: 2.22450
+
+Finished Epoch: 154, Training Loss: 1.94325
+
+Finished Epoch: 155, Training Loss: 2.00623
+
+Finished Epoch: 156, Training Loss: 2.02218
+
+Finished Epoch: 157, Training Loss: 1.66805
+
+Finished Epoch: 158, Training Loss: 1.64326
+
+Finished Epoch: 159, Training Loss: 1.52869
+
+Finished Epoch: 160, Training Loss: 2.89988
+
+Finished Epoch: 161, Training Loss: 2.26817
+
+Finished Epoch: 162, Training Loss: 2.12176
+
+Finished Epoch: 163, Training Loss: 2.84450
+
+Finished Epoch: 164, Training Loss: 2.59196
+
+Finished Epoch: 165, Training Loss: 1.64659
+
+Finished Epoch: 166, Training Loss: 3.82139
+
+Finished Epoch: 167, Training Loss: 6.13596
+
+Finished Epoch: 168, Training Loss: 1.95405
+
+Finished Epoch: 169, Training Loss: 3.72320
+
+Finished Epoch: 170, Training Loss: 2.04233
+
+Finished Epoch: 171, Training Loss: 2.34557
+
+Finished Epoch: 172, Training Loss: 2.11188
+
+Finished Epoch: 173, Training Loss: 1.71981
+
+Finished Epoch: 174, Training Loss: 1.83204
+
+Finished Epoch: 175, Training Loss: 1.74359
+
+Finished Epoch: 176, Training Loss: 2.09090
+
+Finished Epoch: 177, Training Loss: 2.38062
+
+Finished Epoch: 178, Training Loss: 4.29797
+
+Finished Epoch: 179, Training Loss: 2.44363
+
+Finished Epoch: 180, Training Loss: 2.13567
+
+Finished Epoch: 181, Training Loss: 2.47416
+
+Finished Epoch: 182, Training Loss: 2.42850
+
+Finished Epoch: 183, Training Loss: 1.84990
+
+Finished Epoch: 184, Training Loss: 1.58509
+
+Finished Epoch: 185, Training Loss: 5.13461
+
+Finished Epoch: 186, Training Loss: 1.66622
+
+Finished Epoch: 187, Training Loss: 1.93099
+
+Finished Epoch: 188, Training Loss: 1.43120
+
+Finished Epoch: 189, Training Loss: 2.83271
+
+Finished Epoch: 190, Training Loss: 4.95756
+
+Finished Epoch: 191, Training Loss: 1.43309
+
+Finished Epoch: 192, Training Loss: 2.37864
+
+Finished Epoch: 193, Training Loss: 2.80588
+
+Finished Epoch: 194, Training Loss: 2.38756
+
+Finished Epoch: 195, Training Loss: 1.67162
+
+Finished Epoch: 196, Training Loss: 1.98879
+
+Finished Epoch: 197, Training Loss: 1.94465
+
+Finished Epoch: 198, Training Loss: 1.81902
+
+Finished Epoch: 199, Training Loss: 2.09309
+
+Finished Epoch: 200, Training Loss: 1.48707
+
+Finished Epoch: 201, Training Loss: 6.44395
+
+Finished Epoch: 202, Training Loss: 1.55820
+
+Finished Epoch: 203, Training Loss: 3.74092
+
+Finished Epoch: 204, Training Loss: 1.80416
+
+Finished Epoch: 205, Training Loss: 1.82057
+
+Finished Epoch: 206, Training Loss: 1.71967
+
+Finished Epoch: 207, Training Loss: 1.99706
+
+Finished Epoch: 208, Training Loss: 4.07483
+
+Finished Epoch: 209, Training Loss: 2.15869
+
+Finished Epoch: 210, Training Loss: 2.25120
+
+Finished Epoch: 211, Training Loss: 1.46588
+
+Finished Epoch: 212, Training Loss: 1.61969
+
+Finished Epoch: 213, Training Loss: 2.84151
+
+Finished Epoch: 214, Training Loss: 1.60654
+
+Finished Epoch: 215, Training Loss: 2.25588
+
+Finished Epoch: 216, Training Loss: 1.41328
+
+Finished Epoch: 217, Training Loss: 1.62938
+
+Finished Epoch: 218, Training Loss: 1.98601
+
+Finished Epoch: 219, Training Loss: 2.36154
+
+Finished Epoch: 220, Training Loss: 2.46659
+
+Finished Epoch: 221, Training Loss: 1.88717
+
+Finished Epoch: 222, Training Loss: 4.55980
+
+Finished Epoch: 223, Training Loss: 1.63382
+
+Finished Epoch: 224, Training Loss: 1.86380
+
+Finished Epoch: 225, Training Loss: 3.78066
+
+Finished Epoch: 226, Training Loss: 4.08633
+
+Finished Epoch: 227, Training Loss: 1.66290
+
+Finished Epoch: 228, Training Loss: 1.98137
+
+Finished Epoch: 229, Training Loss: 2.05347
+
+Finished Epoch: 230, Training Loss: 1.50076
+
+Finished Epoch: 231, Training Loss: 2.44226
+
+Finished Epoch: 232, Training Loss: 11.47969
+
+Finished Epoch: 233, Training Loss: 2.67279
+
+Finished Epoch: 234, Training Loss: 1.43809
+
+Finished Epoch: 235, Training Loss: 4.28314
+
+Finished Epoch: 236, Training Loss: 2.55032
+
+Finished Epoch: 237, Training Loss: 3.69109
+
+Finished Epoch: 238, Training Loss: 2.61184
+
+Finished Epoch: 239, Training Loss: 2.54609
+
+Finished Epoch: 240, Training Loss: 2.02701
+
+Finished Epoch: 241, Training Loss: 3.08346
+
+Finished Epoch: 242, Training Loss: 1.87686
+
+Finished Epoch: 243, Training Loss: 2.06488
+
+Finished Epoch: 244, Training Loss: 2.16471
+
+Finished Epoch: 245, Training Loss: 2.05825
+
+Finished Epoch: 246, Training Loss: 1.57867
+
+Finished Epoch: 247, Training Loss: 1.47827
+
+Finished Epoch: 248, Training Loss: 1.54082
+
+Finished Epoch: 249, Training Loss: 2.57314
+
+Finished Epoch: 250, Training Loss: 2.66519
+
+Finished Epoch: 251, Training Loss: 5.15028
+
+Finished Epoch: 252, Training Loss: 1.42149
+
+Finished Epoch: 253, Training Loss: 1.62319
+
+Finished Epoch: 254, Training Loss: 2.79379
+
+Finished Epoch: 255, Training Loss: 2.05524
+
+Finished Epoch: 256, Training Loss: 2.70322
+
+Finished Epoch: 257, Training Loss: 1.59650
+
+Finished Epoch: 258, Training Loss: 1.57456
+
+Finished Epoch: 259, Training Loss: 1.77109
+
+Finished Epoch: 260, Training Loss: 4.84577
+
+Finished Epoch: 261, Training Loss: 1.78775
+
+Finished Epoch: 262, Training Loss: 1.67792
+
+Finished Epoch: 263, Training Loss: 2.37766
+
+Finished Epoch: 264, Training Loss: 1.65613
+
+Finished Epoch: 265, Training Loss: 2.16873
+
+Finished Epoch: 266, Training Loss: 1.84824
+
+Finished Epoch: 267, Training Loss: 1.89061
+
+Finished Epoch: 268, Training Loss: 1.56064
+
+Finished Epoch: 269, Training Loss: 1.62389
+
+Finished Epoch: 270, Training Loss: 1.36101
+
+Finished Epoch: 271, Training Loss: 3.42058
+
+Finished Epoch: 272, Training Loss: 1.76656
+
+Finished Epoch: 273, Training Loss: 1.61557
+
+Finished Epoch: 274, Training Loss: 5.50569
+
+Finished Epoch: 275, Training Loss: 1.51576
+
+Finished Epoch: 276, Training Loss: 1.90730
+
+Finished Epoch: 277, Training Loss: 1.41255
+
+Finished Epoch: 278, Training Loss: 1.44450
+
+Finished Epoch: 279, Training Loss: 1.70482
+
+Finished Epoch: 280, Training Loss: 1.53084
+
+Finished Epoch: 281, Training Loss: 2.33858
+
+Finished Epoch: 282, Training Loss: 1.83890
+
+Finished Epoch: 283, Training Loss: 2.32622
+
+Finished Epoch: 284, Training Loss: 2.59081
+
+Finished Epoch: 285, Training Loss: 1.25119
+
+Finished Epoch: 286, Training Loss: 1.66022
+
+Finished Epoch: 287, Training Loss: 4.67399
+
+Finished Epoch: 288, Training Loss: 4.25033
+
+Finished Epoch: 289, Training Loss: 4.56148
+
+Finished Epoch: 290, Training Loss: 1.61487
+
+Finished Epoch: 291, Training Loss: 1.86394
+
+Finished Epoch: 292, Training Loss: 1.52076
+
+Finished Epoch: 293, Training Loss: 1.48619
+
+Finished Epoch: 294, Training Loss: 1.54790
+
+Finished Epoch: 295, Training Loss: 2.58574
+
+Finished Epoch: 296, Training Loss: 2.32014
+
+Finished Epoch: 297, Training Loss: 1.41363
+
+Finished Epoch: 298, Training Loss: 1.80770
+
+Finished Epoch: 299, Training Loss: 2.44834
+
+Finished Epoch: 300, Training Loss: 4.40022

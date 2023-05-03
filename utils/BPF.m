@@ -1,6 +1,7 @@
 %% Doppler radar signal ----------------------------------------------------
 % ID1
-Doppler = dlmread('./data/Keio Hospital/Doppler/ID01/Doppler_000001_20210917_071301.csv');
+%Doppler = dlmread('../data/Keio Hospital/Doppler/ID03/Doppler010421');
+Doppler = dlmread("C:\Users\grpro\workspace\grad_thesis\InceptionTime\data\Keio Hospital\Doppler\ID12\20220703①_20220703_113740.csv");
 ex_name = 'ID1';
 
 R_Iraw = double(Doppler(:,1))/2048;                                                              % In-phase data of Doppler radar signal
@@ -18,8 +19,8 @@ obtime = T/fs; % Observation duration
 Tob = 1/fs:1/fs:obtime; % Time data vector for figure
 
 sub = 25;
-Fcut_low1  = 0.6;
-Fcut_high1 = 2.0;
+Fcut_low1  = 0.3;
+Fcut_high1 = 100;
 bpFilt_v = designfilt('bandpassfir','FilterOrder',floor(100000/sub),...
     'CutoffFrequency1',Fcut_low1,'CutoffFrequency2',Fcut_high1,...
     'SampleRate',fs);
@@ -28,5 +29,12 @@ filtered = filter(bpFilt_v,[R; zeros(Delay_v,1)]);
 R_bpf = filtered(Delay_v+1:end);
 R_bpf_abs = abs(R_bpf);
 R_abs = abs(R);
-writematrix(R_bpf_abs, "filtered_abs.csv");
-writematrix(R_abs, "nonfilterd_abs.csv");
+%R_bpf_abs_norm = normalize(R_bpf_abs, "range");
+%findpeaks(R_I, "MinPeakHeight", 0.9);
+[pks, locs] = findpeaks(R_I, "MinPeakHeight", 0.9);
+
+%writematrix(locs, "I_raw_01_peaks.csv");
+%writematrix(real(R), "I_raw_12.csv");
+writematrix(real(R), "Q_raw_12.csv");
+%writematrix(R_bpf_abs, "filtered_abs.csv");
+%writematrix(R_abs, "nonfilterd_abs.csv");
